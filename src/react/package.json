@@ -1,0 +1,7 @@
+{
+    "name": "botkit/react",
+    "private": true,
+    "jsnext:main": "./botkit-react.js",
+    "module": "./botkit-react.js"
+  }
+  
